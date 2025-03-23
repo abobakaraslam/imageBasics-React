@@ -1,4 +1,4 @@
-// File: App.tsx located in src folder
+// File: App.jsx located in src folder
 import "./App.css"; //importing stylesheet
 function App() {
   return (
