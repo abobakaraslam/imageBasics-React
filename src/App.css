@@ -1,0 +1,12 @@
+/*File: App.css located in src folder*/
+h1 {
+  text-align: center;
+  margin: 10px 0px;
+}
+p {
+  text-align: center;
+}
+.pageHeader{
+  margin-top: 20px;
+  color: black;
+}
